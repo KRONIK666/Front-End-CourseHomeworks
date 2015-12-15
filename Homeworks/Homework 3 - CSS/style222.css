@@ -1,0 +1,155 @@
+.someLink {
+	color: red;
+}
+
+.some-link {
+	color: green !important;
+}
+
+div {
+	font-size: 20px;
+}
+
+div:first-child {
+	font-size: 60px;
+}
+
+div:nth-child(2n+1) {
+	color: blue;
+}
+
+div:nth-child(2n+1) /*{
+	background: red;*/
+}
+
+a[alt="blqblq"] {
+	font-size: 30px;
+}
+
+#background-example {
+	background-color: cyan;
+	width: 600px;
+	height: 600px;
+}
+
+#background-example2 {
+	background-image: url('img.jpg');
+	background-position: right bottom;
+	background-repeat: no-repeat;
+
+	background: url('img.jpg') repeat-x right bottom;
+
+	width: 300px;
+	height: 300px;
+}
+
+.heading {
+	color: rgb(200, 100, 10);
+	color: brown;
+	color: #f00;
+	text-align: left;
+	text-align: center;
+	text-align: right;
+	text-decoration: none;
+	text-decoration: underline;
+	text-transform: lowercase;
+	font-family: 'Tahoma', sans-serif;
+	font-style: italic;
+	font-style: normal;
+	font-weight: bold;
+	font-weight: normal;
+	font-size: 40px;
+}
+
+a {
+	display: block;
+	text-indent: -9999px;
+}
+
+a img {
+	text-indent: 0;
+}
+
+ul {
+	list-style: disk;
+	list-style-position: inside;
+}
+
+table {
+	border: 1px solid gray;
+	border-collapse: separate;
+	width: 500px;
+	height: 200px;
+	text-align: center;
+	background: yellow;
+	color: magenta;
+}
+table td {
+	vertical-align: bottom;
+	padding: 10px;
+}
+
+.blq {
+	border-style: dashed;
+	border-style: solid;
+	border-style: double;
+	border-style: ridge;
+	border-style: groove;
+	border-width: 10px;
+	border-color: yellow;
+
+	border: 10px dashed yellow;
+
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 100px;
+
+	padding: 20px 30px 100px
+}
+
+.blq2 {
+	min-width: 400px;
+	min-height: 200px;
+}
+
+.blq3 {
+	max-width: 200px;
+	max-height: 100px;
+	overflow: hidden;
+}
+
+span.ss {
+	width: 200px;
+	display: inline-block;
+	display: none;
+}
+
+.table {
+	display: table;
+}
+
+.table-row {
+	display: table-row;
+}
+
+.table-cell {
+	display: table-cell;
+}
+
+.table {
+	visibility: hidden;
+	display: none;
+}
+
+.relative {
+	position: static;
+	width: 800px;
+	height: 800px;
+	color: blue;
+}

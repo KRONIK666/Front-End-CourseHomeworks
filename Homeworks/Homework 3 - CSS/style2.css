@@ -1,0 +1,47 @@
+table {
+	border: 3px blue;
+	border-collapse: separate;
+	width: 650px;
+	height: 20px;
+	margin: auto;
+	text-align: center;
+	background: #d6d6c2;
+	color: #3385ff;
+	font-family: 'Calibri';
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 18px;
+}
+.table1 {
+	border: 3px blue;
+	border-collapse: separate;
+	width: 250px;
+	height: 250px;
+	margin: inherit;
+	text-align: inherit;
+	background: #ff751a;
+	color: black;
+	font-family: 'Calibri';
+	font-size: 15px;
+	line-height: 18px;
+}
+.customtd {
+	border-right: none;
+	border-left: none;
+	border-top: none;
+	border-bottom: none;
+	background: white;
+}
+.customdiv {
+	width: 800px;
+	height: 250px;
+	margin: auto;
+	color: #00ffff;
+	font-family: 'Calibri';
+	font-size: 15px;
+	line-height: 18px;
+	text-align: justify;
+}
+span {
+	font-size: 20px;
+}

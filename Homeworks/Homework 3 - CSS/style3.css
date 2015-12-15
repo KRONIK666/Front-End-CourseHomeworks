@@ -1,0 +1,38 @@
+table {
+	border: 3px;
+	border-style: solid;
+	border-color: #ff8000;
+	border-collapse: separate;
+	border-radius: 10px;
+	width: 600px;
+	height: 300px;
+	margin: auto;
+	background: #ffcc80;
+	color: #4d2600;
+	font-family: 'Calibry';
+	font-size: 20px;
+}
+.trcolor {
+	font color: #4d2600;
+	font width: 4px;
+	font height: 5px;
+	font-weight: 20px;
+	margin-right: 400px;
+}
+.button1 {
+	height: 30px;
+	margin-right: 200px;
+	color: white;
+	background: green;
+	border: 0.5px;
+	border-style: solid;
+	border-color: green;
+}
+.button2 {
+	height: 30px;
+	color: white;
+	background: orange;
+	border: 0.5px;
+	border-style: solid;
+	border-color: orange;
+}

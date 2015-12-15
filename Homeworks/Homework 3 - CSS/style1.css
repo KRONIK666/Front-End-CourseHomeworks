@@ -1,0 +1,21 @@
+table td {
+	border-color: black;
+}
+input {
+    box-shadow: 1px 1px 1px;
+}
+.table-raw1 {
+	background: #18cc00;
+}
+.table-raw3 {
+	background: #fff7b8;
+}
+.table-raw5 {
+	background: #fff7b8;
+}
+.font-color {
+	color: #f8f8f8;
+}
+.checkbox-color {
+	background: #c2c2c2;
+}
