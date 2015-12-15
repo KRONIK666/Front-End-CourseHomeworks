@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Quiz</title>
+</head>
+<body>
+	<form action="action.php">
+		<fieldset>
+			<legend>Quiz</legend>
+
+			<label for="birthdate">Birth date: </label>
+			<input id="birthdate" type="month" name="birthdate"><br><br>
+
+			Gender:
+			<label for="male">Male</label>
+			<input id="male" type="radio" checked name="gender" required>
+			<label for="female">Female</label>
+			<input id="female" type="radio" name="gender" required><br><br>
+
+			Favourite color:
+			<input type="color" name="favcolor"><br><br>
+
+			How many hours a day you spend in front of the TV?
+			<input id="text" type="text"><br><br>
+
+			How many hours a day you spend in Internet?
+			<input type="range" min="0" max="24" step="1"><br><br>
+
+			<label for="acception">I'm aware with the terms &amp; conditions </label><input type="checkbox" checked id="acception"><br><br>
+		</fieldset>
+	</form>
+</body>
+</html>
