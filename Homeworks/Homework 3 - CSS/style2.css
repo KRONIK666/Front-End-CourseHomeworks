@@ -1,0 +1,48 @@
+div {
+	margin: auto;
+	width: 1060px;
+	color: #007fff;
+	font-family: 'Arial';
+	font-size: 15px;
+	text-align: left;
+	text-indent: 30px;
+}
+table {
+	border-collapse: collapse;
+}
+table td {
+	color: #007fff;
+	background: #bfbfbf;
+	font-family: 'Arial';
+	font-size: 35px;
+	text-align: center;
+	border: 2px solid #007fff;
+}
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+.articles {
+	width: 350px;
+	color: black;
+	background: #ff751a;
+	font-family: 'Arial';
+	font-size: 15px;
+	text-align: center;
+	border: 2px solid gray;
+}
+.blankrow {
+	height: 20px;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: none;
+	background: white;
+}
+.hidden {
+	border-right: hidden;
+}
+span {
+	font-size: 15px;
+	font-weight: bold;
+}

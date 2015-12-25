@@ -1,0 +1,31 @@
+table {
+	background-color: #f2f2f2;
+	border: 2px solid gray;
+	border-style: ridge;
+	border-spacing: 10px;
+	border-collapse: inherit;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.buttons {
+	background-image: url("Task5/calculator.png");
+	border: 1px solid gray;
+	border-radius: 5px;
+	padding: 10px;
+	width: 30px;
+	font-family: 'Arial';
+	font-weight: bold;
+	text-align: center;
+}
+.buttons:hover {
+	background: #ffffff;
+}
+.textbox {
+	border: 1px solid gray;
+	box-shadow: -1px -1px 0 0 black;
+	width: 250px;
+	font-size: 15px;
+	font-family: 'Arial';
+	text-align: right;
+}

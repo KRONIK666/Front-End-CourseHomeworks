@@ -1,0 +1,41 @@
+table {
+	border: 3px;
+	border-radius: 10px;
+	border-color: #ff6600;
+	border-style: solid;
+	color: #661900;
+	background: #ffe580;
+	font-family: 'Cambria';
+	font-size: 25px;
+	width: 800px;
+	padding: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+table td {
+	text-align: center;
+}
+div {
+	text-align: left;
+	margin-left: 42px;
+}
+.button1 {
+	border: 0.5px;
+	border-color: green;
+	border-style: solid;
+	background: green;
+	color: white;
+	font-weight: bold;
+	height: 30px;
+	margin-left: 2px;
+}
+.button2 {
+	border: 0.5px;
+	border-color: orange;
+	border-style: solid;
+	background: orange;
+	color: white;
+	font-weight: bold;
+	height: 30px;
+	margin-left: 322px;
+}
