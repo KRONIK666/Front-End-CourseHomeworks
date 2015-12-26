@@ -1,0 +1,16 @@
+.transition {
+	width: 300px;
+	height: 300px;
+	margin-left: 100px;
+	margin-top: 100px;
+	background: red;
+	transition: width 2s, height 2s, transform 2s;
+	-webkit-transition: width 2s, height 2s, -webkit-transform 2s;
+}
+
+.transition:hover {
+	width: 300px;
+	height: 300px;
+	transform: rotate(180deg);
+	-webkit-transform: rotate(180deg);
+}

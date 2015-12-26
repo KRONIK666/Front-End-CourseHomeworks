@@ -1,0 +1,41 @@
+h1 {
+	color: #007fff;
+	background: #bfbfbf;
+	border: 2px solid #007fff;
+	width: 1050px;
+	font-size: 30px;
+	font-family: 'Arial';
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+p {
+	color: #007fff;
+	width: 1055px;
+	font-family: 'Arial';
+	font-size: 15px;
+	text-align: left;
+	text-indent: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+div {
+	color: black;
+	background: #ff751a;
+	border: 2px solid gray;
+	width: 1050px;
+	height: 200px;
+	font-size: 15px;
+	font-family: 'Arial';
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	-moz-column-count: 3;
+	-moz-column-gap: 5px;
+	-webkit-column-count: 3;
+	-webkit-column-gap: 5px;
+}
+span {
+	font-size: 15px;
+	font-weight: bold;
+}

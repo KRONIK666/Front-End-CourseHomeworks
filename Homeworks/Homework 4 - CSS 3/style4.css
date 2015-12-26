@@ -1,0 +1,20 @@
+.transform1 {
+	width: 250px;
+	height: 250px;
+	margin-top: 20px;
+	margin-left: 100px;
+	color: white;
+	background: black;
+	transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+}
+.transform2 {
+	width: 250px;
+	height: 250px;
+	margin-top: 50px;
+	margin-left: 100px;
+	color: white;
+	background: red;
+	transform: skew(20deg);
+	-webkit-transform: skew(20deg);
+}

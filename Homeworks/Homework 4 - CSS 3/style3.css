@@ -1,0 +1,14 @@
+.text-shadow {
+	text-shadow: 3px 3px 3px #b30085;
+}
+.multiple-columns {
+	column-count: 3;
+	-moz-column-count: 3;
+	-webkit-column-count: 3;
+	column-gap: 50px;
+	-moz-column-gap: 50px;
+	-webkit-column-gap: 50px;
+	column-rule: 5px solid #ffad33;
+	-moz-column-rule: 5px solid #ffad33;
+	-webkit-column-rule: 5px solid #ffad33;
+}
