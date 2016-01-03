@@ -1,0 +1,42 @@
+html {
+	background-color: #00bfff;
+}
+h1 {
+	color: #1affff;
+	margin-top: 150px;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 6px 6px 3px #000000;
+}
+button {
+	color: white;
+	border: 1px solid black;
+	border-radius: 20px;
+	background-image: url('Task3/background.png');
+	font-size: 23px;
+	font-family: 'Calibri';
+	margin-left: 15px;
+	margin-right: 5px;
+	padding-right: 10px;
+}
+div {
+	padding: 3px;
+	text-align: center;
+}
+p {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	text-align: justify;
+}
+img {
+	margin-left: 10px;
+}
+.center {
+	color: white;
+	font-size: 23px;
+	font-family: 'Calibri';
+	margin-top: 150px;
+	text-align: center;
+}

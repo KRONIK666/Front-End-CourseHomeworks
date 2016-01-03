@@ -1,0 +1,46 @@
+html {
+	background-color: orangered;
+}
+header {
+	margin-left: 400px;
+}
+div {
+	background-image: url('Task1/design.png');
+	background-repeat: no-repeat;
+	height: 50px;
+}
+h1 {
+	color: white;
+	font-size: 25px;
+	font-family: 'Calibri';
+	text-indent: 60px;
+	margin-left: 400px;
+}
+p {
+	color: white;
+	border: 2px solid orange;
+	font-size: 16px;
+	font-family: 'Calibri';
+	text-align: justify;
+	text-indent: 50px;
+	width: 935px;
+	padding: 10px;
+	margin-left: 400px;
+}
+button {
+	color: white;
+	border: none;
+	background: transparent;
+	font-size: 16px;
+	font-family: 'Calibri';
+	padding: 10px;
+	margin-left: 40px;
+}
+button:focus {
+	color: black;
+	background-color: #ff9900;
+}
+button:hover {
+	color: black;
+	background-color: #ff9900;
+}

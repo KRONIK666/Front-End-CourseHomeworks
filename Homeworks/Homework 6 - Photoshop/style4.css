@@ -1,0 +1,48 @@
+html {
+	background-image: url('Task4/background.png');
+	background-repeat: no-repeat;
+	background-position: top;
+}
+h1 {
+	color: #003399;
+	margin-top: 30px;
+	margin-left: 350px;
+}
+div {
+	color: #003399;
+	width: 1200px;
+	font-size: 20px;
+	margin-top: -30px;
+	margin-left: 350px;
+}
+td {
+	padding: 53px;
+}
+.heading {
+	width: 350px;
+	margin-left: 880px;
+}
+.image {
+	width: 100px;
+	height: 100px;
+}
+.table1 {
+	margin-top: -40px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.table2 {
+	margin-top: 10px;
+	margin-left: 340px;
+}
+.table3 {
+	margin-top: -50px;
+	margin-left: 340px;
+}
+.standings {
+	position: absolute;
+	width: 120px;
+	height: 290px;
+	top: 428px;
+	left: 1410px;
+}

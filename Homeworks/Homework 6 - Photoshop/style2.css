@@ -1,0 +1,21 @@
+h1 {
+	position: relative;
+	left: 450px;
+	background-image: url('Task1/design.png');
+	background-repeat: no-repeat;
+	color: white;
+	height: 50px;
+	padding-left: 350px
+}
+.main {
+	position: fixed;
+	top: 0px;
+}
+.middle {
+	margin-left: 150px;
+}
+.end {
+	position: fixed;
+	top: 0px;
+	left: 1500px;
+}
