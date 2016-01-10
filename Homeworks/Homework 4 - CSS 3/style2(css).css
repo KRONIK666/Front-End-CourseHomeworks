@@ -6,6 +6,7 @@ div {
 	padding-right: 15px;
 	text-align: center;
 }
+
 .box1 {
 	position: fixed;
 	background-color: #ffff4d;
@@ -15,6 +16,7 @@ div {
 	height: 200px;
 	padding-top: 150px;
 }
+
 .box2 {
 	position: fixed;
 	color: #f2f2f2;
@@ -25,6 +27,7 @@ div {
 	height: 220px;
 	padding-top: 90px;
 }
+
 .box3 {
 	position: fixed;
 	background-color: #b2ff66;
@@ -34,6 +37,7 @@ div {
 	height: 120px;
 	padding-top: 85px;
 }
+
 .box4 {
 	position: fixed;
 	background-color: #ffad33;
@@ -43,6 +47,7 @@ div {
 	height: 140px;
 	padding-top: 60px;
 }
+
 .box5 {
 	position: fixed;
 	background-color: #00ffff;
@@ -52,6 +57,7 @@ div {
 	height: 150px;
 	padding-top: 60px;
 }
+
 .box6 {
 	position: fixed;
 	color: #f2f2f2;
@@ -62,6 +68,7 @@ div {
 	height: 120px;
 	padding-top: 90px;
 }
+
 .box7 {
 	position: fixed;
 	color: #f2f2f2;

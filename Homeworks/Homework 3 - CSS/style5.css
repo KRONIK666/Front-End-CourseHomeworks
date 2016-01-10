@@ -8,6 +8,7 @@ table {
 	margin-left: auto;
 	margin-right: auto;
 }
+
 .buttons {
 	background-image: url("Task5/calculator.png");
 	border: 1px solid gray;
@@ -18,9 +19,11 @@ table {
 	font-weight: bold;
 	text-align: center;
 }
+
 .buttons:hover {
 	background: #ffffff;
 }
+
 .textbox {
 	border: 1px solid gray;
 	box-shadow: -1px -1px 0 0 black;

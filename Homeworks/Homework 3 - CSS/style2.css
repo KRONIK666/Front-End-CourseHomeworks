@@ -7,9 +7,11 @@ div {
 	text-align: left;
 	text-indent: 30px;
 }
+
 table {
 	border-collapse: collapse;
 }
+
 table td {
 	color: #007fff;
 	background: #bfbfbf;
@@ -18,10 +20,12 @@ table td {
 	text-align: center;
 	border: 2px solid #007fff;
 }
+
 .center {
 	margin-left: auto;
 	margin-right: auto;
 }
+
 .articles {
 	width: 350px;
 	color: black;
@@ -31,6 +35,7 @@ table td {
 	text-align: center;
 	border: 2px solid gray;
 }
+
 .blankrow {
 	height: 20px;
 	border-left: none;
@@ -39,9 +44,11 @@ table td {
 	border-bottom: none;
 	background: white;
 }
+
 .hidden {
 	border-right: hidden;
 }
+
 span {
 	font-size: 15px;
 	font-weight: bold;

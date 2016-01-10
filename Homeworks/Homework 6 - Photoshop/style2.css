@@ -7,13 +7,16 @@ h1 {
 	height: 50px;
 	padding-left: 350px
 }
+
 .main {
 	position: fixed;
 	top: 0px;
 }
+
 .middle {
 	margin-left: 150px;
 }
+
 .end {
 	position: fixed;
 	top: 0px;

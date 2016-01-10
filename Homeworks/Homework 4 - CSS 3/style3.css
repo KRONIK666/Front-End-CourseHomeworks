@@ -1,6 +1,7 @@
 .text-shadow {
 	text-shadow: 3px 3px 3px #b30085;
 }
+
 .multiple-columns {
 	column-count: 3;
 	-moz-column-count: 3;

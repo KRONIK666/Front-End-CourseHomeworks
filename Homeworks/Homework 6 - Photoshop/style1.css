@@ -1,14 +1,17 @@
 html {
 	background-color: orangered;
 }
+
 header {
 	margin-left: 400px;
 }
+
 div {
 	background-image: url('Task1/design.png');
 	background-repeat: no-repeat;
 	height: 50px;
 }
+
 h1 {
 	color: white;
 	font-size: 25px;
@@ -16,6 +19,7 @@ h1 {
 	text-indent: 60px;
 	margin-left: 400px;
 }
+
 p {
 	color: white;
 	border: 2px solid orange;
@@ -27,6 +31,7 @@ p {
 	padding: 10px;
 	margin-left: 400px;
 }
+
 button {
 	color: white;
 	border: none;
@@ -36,10 +41,12 @@ button {
 	padding: 10px;
 	margin-left: 40px;
 }
+
 button:focus {
 	color: black;
 	background-color: #ff9900;
 }
+
 button:hover {
 	color: black;
 	background-color: #ff9900;

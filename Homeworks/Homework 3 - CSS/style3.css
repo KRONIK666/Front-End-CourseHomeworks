@@ -12,13 +12,16 @@ table {
 	margin-left: auto;
 	margin-right: auto;
 }
+
 table td {
 	text-align: center;
 }
+
 div {
 	text-align: left;
 	margin-left: 42px;
 }
+
 .button1 {
 	border: 0.5px;
 	border-color: green;
@@ -29,6 +32,7 @@ div {
 	height: 30px;
 	margin-left: 2px;
 }
+
 .button2 {
 	border: 0.5px;
 	border-color: orange;
