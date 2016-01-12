@@ -1,0 +1,189 @@
+body {
+	font: normal 1em arial, sans-serif;
+}
+
+p {
+	line-height: 1.6em;
+}
+
+h1, h3 {
+	color: #FFF;
+	margin: 0 0 15px 0;
+}
+
+#logo {
+	background: #555;
+}
+
+#logo h1 {
+	font: normal 320% 'News Cycle', arial, sans-serif;
+}
+
+#logoText h1 {
+	padding: 30px;
+}
+
+nav {
+	background: black;
+	height: 45px;
+	margin: -16px auto 0 auto;
+}
+
+#site-content {
+	overflow: hidden;
+	padding: 25px 0 100px 0;
+}
+
+.left-content {
+	float: left;
+	margin-left: 30px;
+}
+
+.left-content p {
+	border-top: 1px solid #d9d9d9;
+	border-bottom: 1px solid #d9d9d9;
+	width: 800px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.middle-content {
+	margin-left: 900px;
+}
+
+.right-content {
+	margin-top: -415px;
+	margin-left: 1360px;
+}
+
+.middle-content p, .right-content p {
+	width: 400px;
+}
+
+.left-content h1, .middle-content h3, .right-content h3 {
+	color: #333333;
+}
+
+.block {
+	color: #999999;
+	background: #d9d9d9;
+	height: 350px;
+	text-align: center;
+}
+
+.block p {
+	font-size: 50px;
+	padding-top: 130px;
+}
+
+footer {
+	color: #FFF;
+	background: black;
+	font: 130% 'News Cycle', arial, sans-serif;
+	padding: 15px;
+}
+
+footer p {
+	margin-left: 30px;
+}
+
+ul.menu {
+	padding: 0;
+}
+
+ul.menu li {
+	float: left;
+	list-style: none;
+}
+
+ul.menu a {
+	display: block;
+}
+
+ul#nav li a {
+	color: #FFF;
+	text-decoration: none;
+	padding: 12px 0 0 35px;
+}
+
+ul#nav li a:hover, ul#nav li a:focus {
+	color: #09D4FF;
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+	#logo h1 {
+		font: normal 200% 'News Cycle', arial, sans-serif;
+	}
+
+	#logoText h1 {
+		padding: 20px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+	nav {
+		height: 130px;
+	}
+
+	ul.menu li {
+		float: none;
+	}
+
+	ul#nav li a {
+		border-bottom: 1px solid #555;
+		padding: 12px 0 10px 20px;
+	}
+
+	#site-content {
+		width: 765px;
+		padding-top: 15px;
+		padding-bottom: 30px;
+	}
+
+	.left-content {
+		float: none;
+		margin-left: 20px;
+	}
+
+	.left-content p {
+		border-bottom: none;
+		width: 710px;
+		font-size: 12px;
+		padding-bottom: 0;
+	}
+
+	.middle-content {
+		margin-top: 30px;
+		margin-left: 20px;
+	}
+
+	.right-content {
+		margin-top: 30px;
+		margin-left: 20px;
+	}
+
+	.middle-content p, .right-content p {
+		width: 710px;
+		font-size: 12px;
+	}
+
+	.block {
+		width: 710px;
+		height: 300px;
+		margin-top: -30px;
+	}
+
+	.block p {
+		font-size: 50px;
+		padding-top: 100px;
+	}
+
+	footer {
+		font: 100% 'News Cycle', arial, sans-serif;
+		padding: 1px;
+	}
+
+	footer p {
+		margin-left: 20px;
+	}
+}
